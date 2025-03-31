@@ -1,0 +1,4 @@
+customtkinter
+reportlab
+gspread
+oauth2client
